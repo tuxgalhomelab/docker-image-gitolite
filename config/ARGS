@@ -1,4 +1,4 @@
-BASE_IMAGE_NAME=tuxdude/homelab-base
+BASE_IMAGE_NAME=tuxgal/homelab-base
 BASE_IMAGE_TAG=master
 GITOLITE_VERSION=v3.6.13
 USER_NAME=gitolite
