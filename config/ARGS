@@ -1,5 +1,5 @@
 BASE_IMAGE_NAME=tuxgal/homelab-base
-BASE_IMAGE_TAG=master
+BASE_IMAGE_TAG=0.3.8-bookworm-20251208-slim
 GITOLITE_VERSION=v3.6.14
 USER_NAME=gitolite
 GROUP_NAME=gitolite
