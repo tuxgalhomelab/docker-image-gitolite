@@ -1,4 +1,4 @@
-bsdutils=1:2.38.1-5+deb12u3
-git=1:2.39.5-0+deb12u2
-openssh-server=1:9.2p1-2+deb12u7
-perl=5.36.0-7+deb12u3
+bsdutils=1:2.41-5
+git=1:2.47.3-0+deb13u1
+openssh-server=1:10.0p1-7
+perl=5.40.1-6
